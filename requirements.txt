@@ -1,0 +1,2 @@
+# No external Python packages are required for the current prototype.
+# The app uses the standard library and Tkinter, which is included with most Python desktop installs.
